@@ -1,1 +1,2 @@
 # Exhaustive-Analysis-of-Indian-Agriculture-using-Power-BI
+I have explained about the ETL (Extract, Transform, Load) process, focusing on its implementation using Power BI. The document outlines how to extract data from sources like CSV and text files, transform it by cleaning and processing (e.g., removing null, missing, and duplicate values), and load it into Power BI for analysis. It also highlights essential Power BI features such as report view, table view, and model view.
